@@ -52,9 +52,5 @@ class Program
         // Console.WriteLine("Your array is " + ourWord.MakeArray()[0]);
         // Console.WriteLine(ourWord.ReverseArray());
         ourWord.isPalindrome();
-
-
-
-
     }
 }
